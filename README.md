@@ -1,5 +1,5 @@
 # Transistor-Curve-Tracer
-Design of a transistor curve tracer consisting of a custom votlage step generator and voltage ramp generator
+Design of a transistor curve tracer consisting of a custom voltage step generator and voltage ramp generator
 
 Image of full circuit:
 
