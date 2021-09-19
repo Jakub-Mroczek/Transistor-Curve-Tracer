@@ -1,10 +1,14 @@
 # Transistor-Curve-Tracer
 Design of a transistor curve tracer consisting of a custom voltage step generator and voltage ramp generator
 
-Image of full circuit:
+Full circuit:
 
 ![image](https://user-images.githubusercontent.com/45322860/133713383-8a0b94c3-d343-4988-be49-845a4c71da94.png)
 
-Image of final curve trace:
+Stairstep:
+
+![image](https://user-images.githubusercontent.com/45322860/133946902-f68c712c-5c36-4af9-bd27-5132580839f1.png)
+
+Final curve trace:
 
 ![image](https://user-images.githubusercontent.com/45322860/133713415-2346186a-376f-41bc-808d-cc6a0ce96f06.png)
