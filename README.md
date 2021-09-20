@@ -5,7 +5,7 @@ Full circuit:
 
 ![image](https://user-images.githubusercontent.com/45322860/133713383-8a0b94c3-d343-4988-be49-845a4c71da94.png)
 
-To create a trace, the stair-step waveform was applied to the gate of the MOSFET. Drain current was obtained from the voltage ramp using a current mirror. The fall time of the voltage ramp was increased to prevent drain current overshoot. It ended up being essentially a triangle function.
+To create a trace, a stair-step waveform was applied to the gate of the MOSFET. Drain current was obtained from the voltage ramp using a current mirror. The fall time of the voltage ramp was increased to prevent drain current overshoot. It ended up being essentially a triangle function.
 
 Stair-Step             |  Triangle
 :-------------------------:|:-------------------------:
