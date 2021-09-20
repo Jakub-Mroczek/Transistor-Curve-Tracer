@@ -5,15 +5,11 @@ Full circuit:
 
 ![image](https://user-images.githubusercontent.com/45322860/133713383-8a0b94c3-d343-4988-be49-845a4c71da94.png)
 
-Stairstep and ramp:
+To create a trace, the stair-step waveform was applied to the gate of the MOSFET. Drain current was obtained from the voltage ramp using a current mirror. The fall time of the voltage ramp was increased to prevent drain current overshoot. It ended up being essentially a triangle function.
 
-Solarized dark             |  Solarized Ocean
+Stair-Step             |  Triangle
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/45322860/133946902-f68c712c-5c36-4af9-bd27-5132580839f1.png)  |  ![image](https://user-images.githubusercontent.com/45322860/133946925-b38dcd3f-8895-4e0d-ba61-cd76fad2f543.png)
-
-![image](https://user-images.githubusercontent.com/45322860/133946902-f68c712c-5c36-4af9-bd27-5132580839f1.png)
-![image](https://user-images.githubusercontent.com/45322860/133946925-b38dcd3f-8895-4e0d-ba61-cd76fad2f543.png)
-
 
 Final curve trace:
 
