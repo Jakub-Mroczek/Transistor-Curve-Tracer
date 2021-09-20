@@ -3,7 +3,7 @@ Design of a transistor curve tracer consisting of a custom voltage step generato
 
 Full circuit:
 
-![image](https://user-images.githubusercontent.com/45322860/133713383-8a0b94c3-d343-4988-be49-845a4c71da94.png)
+![schematic](https://user-images.githubusercontent.com/45322860/133956832-ef75c320-0d8e-44af-b04b-3c3beef78aae.PNG)
 
 To create a trace, a stair-step waveform was applied to the gate of the MOSFET. Drain current was obtained from the voltage ramp using a current mirror. The fall time of the voltage ramp was increased to prevent drain current overshoot. It ended up being essentially a triangle function.
 
@@ -13,4 +13,4 @@ Stair-Step             |  Triangle
 
 Trace:
 
-![image](https://user-images.githubusercontent.com/45322860/133713415-2346186a-376f-41bc-808d-cc6a0ce96f06.png)
+![curve trace](https://user-images.githubusercontent.com/45322860/133956826-8974c824-e1da-45d2-b553-64cf028de5e4.PNG)
